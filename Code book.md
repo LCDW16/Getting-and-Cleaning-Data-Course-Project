@@ -7,6 +7,7 @@ The R script (run_analysis.R) creates an tidy data set with the average of each 
 Variables, the output file is called tidy_averages_data.txt
 
 The variables in the tidy dataset are:
+
 activity
 
 •	Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
